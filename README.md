@@ -13,8 +13,10 @@ Com uma grande paixão pelo desenvolvimento front-end, estou constantemente expa
 Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos práticos para aplicar e reforçar o conhecimento teórico adquirido em sala de aula. Essa abordagem prática não apenas fortalece minha compreensão, mas também me permite desenvolver habilidades valiosas de resolução de problemas e pensamento crítico.
 
 # Status Github
-<span style="display: flex;">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact)](https://github.com/KazuoMurakami/github-readme-stats)<span/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact)](https://github.com/KazuoMurakami/github-readme-stats)
+
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ac28e614678473bb5f57b5?variant=dark)](https://roadmap.sh)
