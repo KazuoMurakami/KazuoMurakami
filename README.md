@@ -14,8 +14,7 @@ Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos pr
 
 # Status Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact)](https://github.com/KazuoMurakami/github-readme-stats)
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical">  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact">
 
 
 
