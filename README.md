@@ -20,3 +20,4 @@ Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos pr
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ac28e614678473bb5f57b5?variant=dark)](https://roadmap.sh)
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64ac28e614678473bb5f57b5?variant=dark" alt="roadmap.sh"/></a>
