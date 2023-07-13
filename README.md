@@ -16,5 +16,5 @@ Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos pr
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical">  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact">
 
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ac28e614678473bb5f57b5?variant=dark)](https://roadmap.sh)
+# Learning
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ac28e614678473bb5f57b5)](https://roadmap.sh)
