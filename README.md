@@ -1,4 +1,5 @@
 # English
+My portfólio <a href="https://kazuomurakami.github.io/portfolio/">https://kazuomurakami.github.io/portfolio/ </a>
 Currently pursuing the 3rd Semester in Systems Analysis and Development at <a href="https://www.usjt.br"> São Judas University.<a/>
 
 With a strong passion for front-end development, I am actively expanding my knowledge in technologies such as React, Tailwind CSS, and JavaScript. I believe in the power of continuous learning and strive to enhance my skills by exploring new technologies and taking on personal projects.
