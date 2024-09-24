@@ -14,6 +14,17 @@ Com uma grande paixão pelo desenvolvimento front-end, estou constantemente expa
 
 Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos práticos para aplicar e reforçar o conhecimento teórico adquirido em sala de aula. Essa abordagem prática não apenas fortalece minha compreensão, mas também me permite desenvolver habilidades valiosas de resolução de problemas e pensamento crítico.
 
+# Stacks 
+
+Outras tecnologias que tenho conhecimentos e faço projetos para aprofundar meu aprendizado.
+
+* Nextjs
+* PrismaORM
+* DrizzleORM
+* Zod
+* Fastify
+
+
 # Status Github
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KazuoMurakami&show_icons=true&theme=radical">  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazuoMurakami&layout=compact">
