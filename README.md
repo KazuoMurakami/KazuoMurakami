@@ -1,14 +1,14 @@
 # English
 My portfólio <a href="[https://kazuomurakami.github.io/portfolio/](https://kazuo-portfolio.vercel.app)">[https://kazuomurakami.github.io/portfolio/ ](https://kazuo-portfolio.vercel.app)</a>
 
-Currently pursuing the 5rd Semester in Systems Analysis and Development at <a href="https://www.usjt.br"> São Judas University.<a/>
+Graduated in Systems Analysis and Development at <a href="https://www.usjt.br"> São Judas University.<a/>
 
 With a strong passion for front-end development, I am actively expanding my knowledge in technologies such as React, Tailwind CSS, and JavaScript. I believe in the power of continuous learning and strive to enhance my skills by exploring new technologies and taking on personal projects.
 
 In addition to my academic endeavors, I consistently engage in practical projects to apply and reinforce the theoretical knowledge gained in the classroom. This hands-on approach not only strengthens my understanding but also allows me to develop valuable problem-solving and critical thinking skills.
 
 # Portuguese
-Cursando atualmente o 5° Semestre em Análise e Desenvolvimento de Sistemas pela <a href="https://www.usjt.br"> São Judas University.<a/>
+Formado em Analise e desenvolvimento de sistemas pela <a href="https://www.usjt.br"> São Judas University.<a/>
 
 Com uma grande paixão pelo desenvolvimento front-end, estou constantemente expandindo meus conhecimentos em tecnologias como React, Tailwind CSS e JavaScript. Acredito no poder da aprendizagem contínua e me esforço para aprimorar minhas habilidades explorando novas tecnologias e desenvolvendo projetos pessoais.
 
