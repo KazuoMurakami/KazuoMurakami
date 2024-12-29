@@ -16,14 +16,12 @@ Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos pr
 
 # Stacks 
 
-Outras tecnologias que tenho conhecimentos e faço projetos para aprofundar meu aprendizado.
-
 * Nextjs
 * PrismaORM
-* DrizzleORM
 * Zod
 * Fastify
-
+* Typescript
+* Javascript
 
 # Status Github
 
