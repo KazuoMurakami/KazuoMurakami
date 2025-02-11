@@ -1,18 +1,18 @@
 # English
 My portfólio <a href="[https://kazuomurakami.github.io/portfolio/](https://kazuo-portfolio.vercel.app)">[https://kazuomurakami.github.io/portfolio/ ](https://kazuo-portfolio.vercel.app)</a>
 
-Graduated in Systems Analysis and Development at <a href="https://www.usjt.br"> São Judas University.<a/>
+I hold a degree in Systems Analysis and Development from São Judas Tadeu University. My journey in development began with a focus on Front-end, working with technologies such as Next.js, Tailwind CSS, and TypeScript. Recently, I started exploring Material UI, enhancing my ability to create modern and responsive interfaces.
 
-With a strong passion for front-end development, I am actively expanding my knowledge in technologies such as React, Tailwind CSS, and JavaScript. I believe in the power of continuous learning and strive to enhance my skills by exploring new technologies and taking on personal projects.
+Over time, I developed a strong interest in Back-end development, where I use Node.js and TypeScript to build robust and scalable APIs. I have experience integrating Next.js with back-end services, ensuring efficiency and high performance in applications.
 
-In addition to my academic endeavors, I consistently engage in practical projects to apply and reinforce the theoretical knowledge gained in the classroom. This hands-on approach not only strengthens my understanding but also allows me to develop valuable problem-solving and critical thinking skills.
+My goal is to leverage my Full Stack development skills to create innovative, scalable, and user-friendly solutions.
 
 # Portuguese
-Formado em Analise e desenvolvimento de sistemas pela <a href="https://www.usjt.br"> São Judas University.<a/>
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu e iniciei minha jornada no desenvolvimento com foco em Front-end, utilizando tecnologias como Next.js, Tailwind CSS e TypeScript. Recentemente, expandi meus conhecimentos para Material UI, aprimorando a criação de interfaces modernas e responsivas.
 
-Com uma grande paixão pelo desenvolvimento front-end, estou constantemente expandindo meus conhecimentos em tecnologias como React, Tailwind CSS e JavaScript. Acredito no poder da aprendizagem contínua e me esforço para aprimorar minhas habilidades explorando novas tecnologias e desenvolvendo projetos pessoais.
+Com o tempo, desenvolvi grande interesse pelo Back-end, onde utilizo Node.js e TypeScript para construir APIs robustas e escaláveis. Tenho experiência na integração entre Next.js e serviços back-end, garantindo eficiência e alta performance nas aplicações.
 
-Além dos meus esforços acadêmicos, envolvo-me consistentemente em projetos práticos para aplicar e reforçar o conhecimento teórico adquirido em sala de aula. Essa abordagem prática não apenas fortalece minha compreensão, mas também me permite desenvolver habilidades valiosas de resolução de problemas e pensamento crítico.
+Meu objetivo é unir minhas habilidades em desenvolvimento Full Stack para criar soluções inovadoras, escaláveis e com ótima experiência para o usuário.
 
 # Stacks 
 
