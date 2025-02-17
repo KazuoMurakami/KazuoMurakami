@@ -18,7 +18,6 @@ Meu objetivo é unir minhas habilidades em desenvolvimento Full Stack para criar
 
 * Nextjs
 * PrismaORM
-* Zod
 * Fastify
 * Typescript
 * Javascript
