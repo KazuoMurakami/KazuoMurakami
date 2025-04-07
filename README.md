@@ -7,7 +7,7 @@ Over time, I developed a strong interest in Back-end development, where I use No
 
 My goal is to leverage my Full Stack development skills to create innovative, scalable, and user-friendly solutions.
 
-# Portuguese
+# Português
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu e iniciei minha jornada no desenvolvimento com foco em Front-end, utilizando tecnologias como Next.js, Tailwind CSS e TypeScript. Recentemente, expandi meus conhecimentos para Material UI, aprimorando a criação de interfaces modernas e responsivas.
 
 Com o tempo, desenvolvi grande interesse pelo Back-end, onde utilizo Node.js e TypeScript para construir APIs robustas e escaláveis. Tenho experiência na integração entre Next.js e serviços back-end, garantindo eficiência e alta performance nas aplicações.
