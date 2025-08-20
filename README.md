@@ -1,16 +1,16 @@
 # English
 My portfólio <a href="[https://kazuomurakami.github.io/portfolio/](https://kazuo-portfolio.vercel.app)">[https://kazuomurakami.github.io/portfolio/ ](https://kazuo-portfolio.vercel.app)</a>
 
-I hold a degree in Systems Analysis and Development from São Judas Tadeu University. My journey in development began with a focus on Front-end, working with technologies such as Next.js, Tailwind CSS, and TypeScript. Recently, I started exploring Material UI, enhancing my ability to create modern and responsive interfaces.
+I hold a degree in Systems Analysis and Development from São Judas Tadeu University. My journey in development began with a focus on Front-end, working with technologies such as Next.js, Tailwind CSS, and TypeScript. Recently, i expanded my knowledge to implement LLMs / LangChain to create AI Agents with Python / no-code N8N 
 
-Over time, I developed a strong interest in Back-end development, where I use Node.js and TypeScript to build APIs. I have experience integrating Next.js with back-end services, ensuring efficiency and high performance in applications.
+Over time, I developed a strong interest in Back-end development, where I use Node.js and TypeScript to build APIs. I have experience integrating Next.js with back-end services, ensuring efficiency in applications.
 
 My goal is to leverage my Full Stack development skills to create innovative, scalable, and user-friendly solutions.
 
 # Português
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu e iniciei minha jornada no desenvolvimento com foco em Front-end, utilizando tecnologias como Next.js, Tailwind CSS e TypeScript, recentemente expandi meus conhecimentos para implementações de LLMs / LangChain para criação de agents IA com python / no-code N8N
 
-Com o tempo, desenvolvi grande interesse pelo Back-end, onde utilizo Node.js e TypeScript para construir APIs. Tenho experiência na integração entre Next.js e serviços back-end, garantindo eficiência e alta performance nas aplicações.
+Com o tempo, desenvolvi grande interesse pelo Back-end, onde utilizo Node.js e TypeScript para construir APIs. Tenho experiência na integração entre Next.js e serviços back-end, garantindo eficiência nas aplicações.
 
 Meu objetivo é unir minhas habilidades em desenvolvimento Full Stack para criar soluções inovadoras, escaláveis e com ótima experiência para o usuário.
 
