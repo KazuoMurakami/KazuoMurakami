@@ -19,6 +19,7 @@ Atualmente sou responsável por realizar manutenção e implementar melhorias na
 * Fastify
 * Typescript
 * Javascript
+* AdonisJS
 
 # Status Github
 
